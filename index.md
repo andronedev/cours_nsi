@@ -1,3 +1,3 @@
 # Bienvenue
 
-[./Algorithme de référence](algos_de_referece/)
+[./Algorithme de référence](algos_de_reference/)
