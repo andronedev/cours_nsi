@@ -1,6 +1,6 @@
 # TAD Arbre[E]
 
-[Raw](Algo_references_poo_arbre_binaire.py)
+[Raw](../blob/main/algos_de_reference/Algo_references_poo_arbre_binaire.py)
 
 ```python
 # TAD Arbre[E]
@@ -115,7 +115,7 @@ class Arbre:
 
 # Algo glouton de Rendu monnaie
 
-[Raw](Algo_glouton_de_Rendu_monnaie.py)
+[Raw](../blob/main/algos_de_reference/Algo_glouton_de_Rendu_monnaie.py)
 
 ```python
 # valeurs des pièces
@@ -150,7 +150,7 @@ def pieces_a_rendre(somme_a_rendre, systeme_monnaie):
 
 # Algo min.py
 
-[Raw](Algo_min.py)
+[Raw](../blob/main/algos_de_reference/Algo_min.py)
 
 ```python
 def min(L:list):
@@ -173,7 +173,7 @@ assert min([3,2,1])==1,'erreur'
 
 # Algo recherche d'un élément dans une liste
 
-[Raw](algo_recherche_elt_liste.py)
+[Raw](../blob/main/algos_de_reference/algo_recherche_elt_liste.py)
 
 ```python
 def recherche(elt, liste:list) -> int:
@@ -193,7 +193,7 @@ assert recherche(6,[1,4,2,5,4,2,1,5]) == -1, "Erreur de test != 0"
 
 # Tri recherche dichotomique
 
-[Raw](algo_tri_recherche_dichotomique.py)
+[Raw](../blob/main/algos_de_reference/algo_tri_recherche_dichotomique.py)
 
 ```python
 def test_liste_triee(L):
@@ -243,7 +243,7 @@ assert recherche_dichotomique([1],1)==0,'erreur'
 
 # Tri insertion
 
-[Raw](Tri_insertion.py)
+[Raw](../blob/main/algos_de_reference/Tri_insertion.py)
 
 ```python
 
@@ -280,7 +280,7 @@ print(Tri_Insertion(L1))
 
 # Tri par selection
 
-[Raw](Tri_selection.py)
+[Raw](../blob/main/algos_de_reference/Tri_selection.py)
 
 ```python
 # Créé par bourgf, le 24/09/2021 en Python 3.7
