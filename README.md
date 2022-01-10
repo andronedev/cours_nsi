@@ -1,2 +1,1 @@
-# cours_nsi
-Cours de NSI (Terminal)
+# Cours de NSI (Terminal)
